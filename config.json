@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://powerful-eyrie-40630.herokuapp.com/",
+  "change_calculator": "https://ra-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://ra-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://ra-san-diego-top-spots.herokuapp.com/",
+  "vstda": "https://ra-vstda.herokuapp.com/"
 }
